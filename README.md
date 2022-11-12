@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python machine learning and data visualization**
 
-- 📫 How to reach me **e-mail me or connect via Linkedin**
+- 📫 How to reach me: **e-mail me or connect via Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
